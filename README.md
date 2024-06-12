@@ -21,7 +21,7 @@ All of demos here will require the following as minimum requirements. Some exerc
   
   - **Note:** Starting with Visual Studio 17.10, GitHub Copilot is now included in Visual Studio IDE and you do not need to install an extension. You can enable it by going to **Tools** > **Options** > **GitHub Copilot**.
 
-  - For versions prior to 17.10, see [this documentation](../../CopilotExtensionVS/README.md) to install the Copilot extension for Visual Studio IDE.
+  - For versions prior to 17.10, see [this documentation](./Docs/CopilotExtensionVS.md) to install the Copilot extension for Visual Studio IDE.
 
 ## Demos
 
