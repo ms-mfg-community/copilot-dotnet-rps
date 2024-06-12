@@ -4,7 +4,7 @@ Welcome to GitHub Copilot Labs! In this example, we'll create a build pipeline a
 
 ## Prerequisites
 
-Make sure that you have completed the [Lab 5](../RPS-Lab-5/README.md)
+Make sure that you have completed [Lab 5](../RPS-Lab-5/README.md).
 
 ## Steps
 

@@ -4,7 +4,7 @@ Welcome to GitHub Copilot Labs! In this example, we'll add some unit tests to ou
 
 ## Prerequisites
 
-Make sure that you have completed the [Lab 4](../RPS-Lab-4/README.md)
+Make sure that you have completed [Lab 4](../RPS-Lab-4/README.md).
 
 ## Steps
 

@@ -4,7 +4,7 @@ Welcome to GitHub Copilot Labs! In this example, we'll add some additional funct
 
 ## Prerequisites
 
-Make sure that you have completed the [initial lab](../RPS-Lab-1/README.md)
+Make sure that you have completed [the first lab](../RPS-Lab-1/README.md).
 
 ## Steps
 

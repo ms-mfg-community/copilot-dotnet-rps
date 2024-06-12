@@ -4,7 +4,7 @@ Welcome to GitHub Copilot Labs! In this example, we'll refactor our code to make
 
 ## Prerequisites
 
-Make sure that you have completed the [Lab 3](../RPS-Lab-3/README.md)
+Make sure that you have completed [Lab 3](../RPS-Lab-3/README.md).
 
 ## Steps
 

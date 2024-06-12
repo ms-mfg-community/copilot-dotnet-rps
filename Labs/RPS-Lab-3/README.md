@@ -4,7 +4,7 @@ Welcome to GitHub Copilot Labs! In this example, we'll make our program we creat
 
 ## Prerequisites
 
-Make sure that you have completed the [Lab 2](../RPS-Lab-2/README.md)
+Make sure that you have completed [Lab 2](../RPS-Lab-2/README.md).
 
 ## Steps
 
