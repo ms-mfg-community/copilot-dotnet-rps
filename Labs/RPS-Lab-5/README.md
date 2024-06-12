@@ -8,7 +8,7 @@ Make sure that you have completed [Lab 4](../RPS-Lab-4/README.md).
 
 ## Steps
 
-Please follow this step-by-step guide to start adding functionality to your program. Remember that Copilot is non-deterministic so it may not always provide the same suggestions as shown here. You may have to adapt the prompts and lab directions to get the desired results for your particular program!
+Please follow this step-by-step guide add additional functionality to your program. Remember that Copilot is non-deterministic so it may not always provide the same suggestions as shown here. You may have to adapt the prompts and lab directions to get the desired results for your particular program!
 
 ---
 
